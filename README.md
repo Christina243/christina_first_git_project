@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # firstgitprj
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# christina_first_git_project
+KG MITTAL COLLEGE GIT PROJECT
+>>>>>>> 576c434a5f96c6919db85f45407145f35f0650bf
